@@ -1,5 +1,7 @@
 <!--
-  SEO KEYWORDS: MERN Job Portal, Full Stack Recruitment Platform, Job Board Pakistan,
+  SEO KEYWORDS: Innoze, Innoze Tech, Innoze Tech Solutions, InnozeTech,
+  innoze github, innoze tech github, innoze tech solutions github, 
+  MERN Job Portal, Full Stack Recruitment Platform, Job Board Pakistan,
   React Job Portal, Node.js Recruitment System, MongoDB Job Board, Online Hiring Platform,
   Job Posting Website, Recruitment Management System, HR Platform Pakistan,
   Full Stack Job Portal, MERN Stack Pakistan, Custom Recruitment Platform,
